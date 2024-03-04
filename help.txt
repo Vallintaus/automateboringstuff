@@ -1,0 +1,2 @@
+You can download needed example files from 
+http://nostarch.com/automatestuff/
