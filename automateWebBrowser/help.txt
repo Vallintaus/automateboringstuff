@@ -1,0 +1,5 @@
+pip Install playwright
+
+playwright install chromium     // or whatever browser
+
+playwright codegen
