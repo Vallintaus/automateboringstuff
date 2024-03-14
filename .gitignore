@@ -1,1 +1,5 @@
 venv/
+
+/excel/*.xlsx
+
+/CSVAndJSON/APIKEY.py
